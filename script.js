@@ -1,2 +1,5 @@
-//your code here
-https://www.svgrepo.com/show/345221/three-dots.svg
+<script>
+  window.onerror = function (msg, url, lineNo, columnNo, error) {
+    console.error("Error occurred: ", msg, "at line", lineNo, "column", columnNo);
+  };
+</script>
